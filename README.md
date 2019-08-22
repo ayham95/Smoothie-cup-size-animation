@@ -1,4 +1,4 @@
-# cup_size_animation
+# Smoothie cup preferred size animation with flutter 
 
 A flutter app that let you choose the preferred smoothie size and animates it using Flare
 ## Getting Started
